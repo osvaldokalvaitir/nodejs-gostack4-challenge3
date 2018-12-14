@@ -17,10 +17,12 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
 - Adiciona novos usuários
 - Adiciona nova sessão quando o usuário logar
 - Adiciona novos anúncios
-- Lista todos os anúncios podendo receber filtros
+- Lista todos os anúncios que não estão vendidos podendo receber filtros
 - Lista somente dados de um anúncio selecionado
 - Edita dados de anúncios existentes
 - Exclui anúncios existentes
+- Adiciona nova intenção de compra
+- Aceita intenção de compra declarando o item como vendido
 
 ## Índice
 
