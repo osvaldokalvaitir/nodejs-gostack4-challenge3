@@ -10,21 +10,9 @@ Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o 
 - Crie uma nova rota para o vendedor aceitar uma intenção de compra declarando o item como vendido e a partir desse momento o anúncio não deve ser mais exibido nas listagens e não deve ser mais possível realizar uma intenção de compra para esse anúncio;
 - O Ad deve possui um campo adicional chamado `purchasedBy` que armazena o ID da Purchase que o vendedor aceitou, caso esse campo esteja presente, quer dizer que o anúncio foi vendido;
 
-## Resumo
-
-Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
-
-- Adiciona novos usuários
-- Adiciona nova sessão quando o usuário logar
-- Adiciona novos anúncios
-- Lista todos os anúncios que não estão vendidos podendo receber filtros
-- Lista somente dados de um anúncio selecionado
-- Edita dados de anúncios existentes
-- Exclui anúncios existentes
-- Adiciona nova intenção de compra
-- Aceita intenção de compra declarando o item como vendido
-
 ## Índice
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -37,6 +25,18 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
   - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
+
+## Rotas
+
+- Adiciona novos usuários
+- Adiciona nova sessão quando o usuário logar
+- Adiciona novos anúncios
+- Lista todos os anúncios que não estão vendidos podendo receber filtros
+- Lista somente dados de um anúncio selecionado
+- Edita dados de anúncios existentes
+- Exclui anúncios existentes
+- Adiciona nova intenção de compra
+- Aceita intenção de compra declarando o item como vendido
 
 ## Desenvolvimento
 
