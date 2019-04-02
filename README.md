@@ -38,8 +38,6 @@ Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o 
 
 ## Rotas
 
-## Rotas
-
 - Intenções de Compras
 
   - Adiciona nova intenção de compra
