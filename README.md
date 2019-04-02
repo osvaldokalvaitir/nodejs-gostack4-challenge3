@@ -38,15 +38,28 @@ Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o 
 
 ## Rotas
 
-- Adiciona novos usuários
-- Adiciona nova sessão quando o usuário logar
-- Adiciona novos anúncios
-- Lista todos os anúncios que não estão vendidos podendo receber filtros
-- Lista somente dados de um anúncio selecionado
-- Edita dados de anúncios existentes
-- Exclui anúncios existentes
-- Adiciona nova intenção de compra
-- Aceita intenção de compra declarando o item como vendido
+## Rotas
+
+- Intenções de Compras
+
+  - Adiciona nova intenção de compra
+  - Aceita intenção de compra declarando o item como vendido
+
+- Anúncios
+
+  - Lista todos os anúncios
+  - Lista somente dados de um anúncio
+  - Adiciona novos anúncios
+  - Edita dados de anúncios existentes
+  - Exclui anúncios existentes
+
+- Sessões
+
+  - Adiciona novas sessões
+
+- Usuários
+
+  - Adiciona novos usuários
 
 ## Desenvolvimento
 
