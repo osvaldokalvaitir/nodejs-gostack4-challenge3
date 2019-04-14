@@ -22,8 +22,6 @@ Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o 
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -32,32 +30,13 @@ Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o 
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)  
 
-  - [Outras Ferramentas](#outras-ferramentas)
-
-## Rotas
-
-- Intenções de Compras
-
-  - Adiciona nova intenção de compra
-  - Aceita intenção de compra declarando o item como vendido
-
-- Anúncios
-
-  - Lista todos os anúncios
-  - Lista somente dados de um anúncio
-  - Adiciona novos anúncios
-  - Edita dados de anúncios existentes
-  - Exclui anúncios existentes
-
-- Sessões
-
-  - Adiciona novas sessões
-
-- Usuários
-
-  - Adiciona novos usuários
+  - [Ferramentas](#ferramentas)
 
 ## Desenvolvimento
 
@@ -72,6 +51,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -111,7 +92,34 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Youch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/youch.md)
 
-### Outras Ferramentas
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Intenções de Compras
+
+      - Adiciona nova intenção de compra
+      - Aceita intenção de compra declarando o item como vendido
+
+    - Anúncios
+
+        - Lista todos os anúncios
+        - Lista somente dados de um anúncio
+        - Adiciona novos anúncios
+        - Edita dados de anúncios existentes
+        - Exclui anúncios existentes
+
+    - Sessões
+
+        - Adiciona novas sessões
+
+    - Usuários
+
+        - Adiciona novos usuários
+
+### Ferramentas
 
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
 
