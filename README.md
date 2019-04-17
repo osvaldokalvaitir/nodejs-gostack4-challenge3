@@ -28,13 +28,15 @@ Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o 
 
   - [Instalação do Projeto](#instalação-do-projeto)
 
+  - [Configuração das Variáveis de Ambiente](#configuração-das-variáveis-de-ambiente)
+
   - [Execução do Projeto](#execução-do-projeto)
 
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
-  
-  - [APIs](#apis)  
+
+  - [APIs](#apis)
 
   - [Ferramentas](#ferramentas)
 
@@ -47,6 +49,10 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Instalação do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+
+### Configuração das Variáveis de Ambiente
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga a Configuração de Variáveis de Ambiente.
 
 ### Execução do Projeto
 
